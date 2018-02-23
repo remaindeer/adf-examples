@@ -1,11 +1,11 @@
 {
   "/alfresco": {
-    "target": "http://localhost:8080",
+    "target": "http://ec2-52-59-213-208.eu-central-1.compute.amazonaws.com:8080",
     "secure": false,
     "changeOrigin": true
   },
   "/activiti-app": {
-    "target": "http://localhost:9999",
+    "target": "http://ec2-52-59-213-208.eu-central-1.compute.amazonaws.com:9090",
     "secure": false,
     "changeOrigin": true
   }
